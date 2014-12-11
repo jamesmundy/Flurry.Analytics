@@ -51,6 +51,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Xamarin.Android.Bindings.targets" />
   <ItemGroup>
-    <EmbeddedJar Include="Jars\FlurryAnalytics-4.1.0.jar" />
+    <InputJar Include="Jars\FlurryAnalytics-4.2.0.jar" />
   </ItemGroup>
 </Project>
